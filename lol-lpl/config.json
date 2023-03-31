@@ -1,0 +1,1 @@
+{"features": ["Unnamed: 0", "teamname_x", "top_x", "jung_x", "mid_x", "adc_x", "sup_x", "teamname_y", "top_y", "jung_y", "mid_y", "adc_y", "sup_y"], "targets": ["target"], "model_type": "xgboost", "target_mapping": {"0": 0, "1": 1}}
